@@ -25,4 +25,5 @@ int main(){
     for (j=0; j<N; j++){
         printf("T[%d] = %d\n", j, T[j]);
     }
-}return 0;
+    return 0;
+}
